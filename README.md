@@ -146,7 +146,7 @@
     
         [图片文件夹](/仓库名/文件名)
         
-[图片文件夹](/README.md_Syntax/picture)
+[图片文件夹](/xiyelin/README.md_Syntax/tree/master/picture)
 
 <br>
 15.显示图片

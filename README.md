@@ -146,7 +146,7 @@
     
         [图片文件夹](/仓库名/文件名)
         
-[图片文件夹](/xiyelin/README.md_Syntax/tree/master/picture)
+[图片文件夹](/README.md_Syntax/picture)
 
 <br>
 15.显示图片
@@ -175,6 +175,17 @@
         
 [顶部](#readme)
 
+<br>
+17.分割线
+    
+    方法：在行首使用3个以上的 * * * 或者 --- 或者 _ _ _ ；字符间可以有空格。
+
+
+* * * *
+
+----
+
+____
 
 <br>
 <br>

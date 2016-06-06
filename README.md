@@ -144,9 +144,9 @@
 
     方法：
     
-        [图片文件夹](/仓库名/文件名/)
+        [图片文件夹](/仓库名/文件名)
         
-[图片文件夹](/README.md_Syntax/picture/)
+[图片文件夹](/README.md_Syntax/picture)
 
 <br>
 15.显示图片
